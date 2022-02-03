@@ -1,0 +1,18 @@
+p {
+    text-align: justify;
+}
+
+#fotos {
+    margin-bottom: 5%;
+}
+
+#fotos p, 
+#fotos h5{
+    text-align: center;
+    background-color: white;
+}
+
+#fotos img {
+    margin:auto;
+    height: 450px;
+}

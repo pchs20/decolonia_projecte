@@ -1,0 +1,21 @@
+{
+    "contacte": [
+        {
+          "id": 0,
+          "nom": "Pau Duran",
+          "corrreu": "pauduranmanzano@gmail.com",
+          "telf": 600630115,
+          "loc": "Premià de Mar",
+          "miss": "Vull arreglar la meva pared, que està molt fea."
+        }
+      ],
+
+      "admins": [
+        {
+          "id": 0,
+          "nom": "Pau",
+          "user": "pduran",
+          "pwd": "contra"
+        }
+      ]
+}

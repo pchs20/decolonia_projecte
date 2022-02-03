@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.barra {
+    height: 60px;
+}
+
+main {
+    justify-content: center;
+    min-height: calc(100vh - 160px);
+}
+
+.s {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+footer {
+    margin-top: 40px !important;
+}
