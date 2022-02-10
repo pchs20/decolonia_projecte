@@ -1,0 +1,27 @@
+main {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#intro p {
+    text-align: justify;
+}
+
+#form-contacte {
+    background-color: rgb(190, 190, 190);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#wrapper-form-contacte {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}

@@ -1,0 +1,41 @@
+p {
+    text-align: justify;
+    line-height: 2em;
+}
+
+#fotos {
+    margin-bottom: 5%;
+}
+
+#fotos p, 
+#fotos h5{
+    text-align: center;
+    background-color: white;
+}
+
+#fotos img {
+    margin:auto;
+    height: 450px;
+}
+
+#wrapper-forum article {
+    padding-top: 3%;
+}
+
+h4 {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+}
+
+#anar-forum {
+    max-height: 40px;
+}
+
+@media (max-width: 768px) {
+    main #fotos {
+        display: none !important;
+    }
+}

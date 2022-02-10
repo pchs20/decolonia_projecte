@@ -1,0 +1,19 @@
+#wrapper-form-forum,
+#wrapper-general {
+    display: flex;
+    justify-content: center;
+}
+
+#wrapper-general article {
+    padding-top: 3%;
+}
+
+h1 {
+    padding-bottom: 2%;
+}
+
+form {
+    background-color: rgb(190, 190, 190);
+    padding: 1% 0% 1% 0%;
+    border-radius: 5px;
+}

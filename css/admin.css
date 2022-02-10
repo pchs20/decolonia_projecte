@@ -1,0 +1,27 @@
+#main-admin {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#wrapper-contacte,
+#wrapper-forum {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+h2 {
+    padding-bottom: 5%;
+    color: rgb(202, 236, 6);
+    font-weight: bold;
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+article {
+    padding-bottom: 3%;
+}
