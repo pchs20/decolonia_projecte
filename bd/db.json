@@ -1,0 +1,131 @@
+{
+    "contacte": [
+        {
+          "id": 0,
+          "nom": "Pau Duran",
+          "correu": "pauduranmanzano@gmail.com",
+          "telf": 600630115,
+          "loc": "Premià de Mar",
+          "miss": "Vull arreglar la meva pared, que està molt fea.",
+          "data": "Thu Feb 02 2022"
+        },
+        {
+          "id": 1,
+          "nom": "Pau Duran segon",
+          "correu": "pauduranmanzano@gmail.com",
+          "telf": 600630115,
+          "loc": "Premià de Mar",
+          "miss": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 02 2022"
+        },
+        {
+          "id": 2,
+          "nom": "Tercer Pau Duran",
+          "correu": "pauduranmanzano@gmail.com",
+          "telf": 600630115,
+          "loc": "Premià de Mar",
+          "miss": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 03 2022"
+        },
+        {
+          "id": 3,
+          "nom": "Pau Quart Duran",
+          "correu": "pauduranmanzano@gmail.com",
+          "telf": 600630115,
+          "loc": "Premià de Mar",
+          "miss": "Vull arreglar la meva pared, que està molt fea.",
+          "data": "Thu Feb 04 2022"
+        }, 
+        {
+          "id": 4,
+          "nom": "Pau Duran 5è",
+          "correu": "pauduranmanzano@gmail.com",
+          "telf": 600630115,
+          "loc": "Premià de Mar",
+          "miss": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 04 2022"
+        }
+      ],
+
+      "admins": [
+        {
+          "id": 0,
+          "nom": "Pau",
+          "user": "pduran",
+          "pwd": "contra"
+        }
+      ],
+
+      "forum": [
+        {
+          "id": 0,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 01 2022"
+        },
+        {
+          "id": 1,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Han deixat tot molt recollit i molt maco.",
+          "data": "Thu Feb 01 2022"
+        },
+        {
+          "id": 2,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 01 2022"
+        },
+        {
+          "id": 3,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 03 2022"
+        },
+        {
+          "id": 4,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 02 2022"
+        },
+        {
+          "id": 5,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Han deixat tot molt recollit i molt maco.",
+          "data": "Thu Feb 02 2022"
+        },
+        {
+          "id": 6,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Han deixat tot molt recollit i molt maco.",
+          "data": "Thu Feb 03 2022"
+        },
+        {
+          "id": 7,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid, earum! Quos repellat perferendis excepturi, quaerat expedita beatae, delectus quae veritatis necessitatibus ipsa harum nam optio. Alias, rem? Beatae, dolor harum.",
+          "data": "Thu Feb 03 2022"
+        },
+        {
+          "id": 8,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Han deixat tot molt recollit i molt maco.",
+          "data": "Thu Feb 04 2022"
+        },
+        {
+          "id": 9,
+          "nom": "Pau Duran",
+          "val": 5,
+          "coment": "Han deixat tot molt recollit i molt maco.",
+          "data": "Thu Feb 04 2022"
+        }
+      ]
+}
